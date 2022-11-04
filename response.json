@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+    {
+      "id": 2,
+      "title": "this is the second string"
+    }
+  ]
+  "status": "success"
+  "return_code": 1
+}
